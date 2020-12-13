@@ -36,7 +36,7 @@
                 </ul>
 		    </nav>
 	    </div>
-	</header>
+	
 	
 	  <section class="hero" id="hero">
 		<div>
@@ -206,11 +206,12 @@ While we are known predominately for our stone baked pizzas, we also have a pass
         <a href="#"><button>Book Now</button></a>
       </div>
     </section>
-			</section>
+			
 
     <!---Header ends--->
 
 </body>
+</header>
 
 
   <footer>
