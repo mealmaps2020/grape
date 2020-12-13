@@ -11,7 +11,7 @@
 	<script src="https://unpkg.com/scrollreveal"></script>
 	<link rel="stylesheet" href="style.css">
 </head>
-<body>
+	
 	<header>
 		<div class="container">
 			<nav class="nav">	
@@ -37,6 +37,7 @@
 		    </nav>
 	    </div>
 	</header>
+	<body>
 	  <section class="hero" id="hero">
 		<div>
 			
