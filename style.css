@@ -872,8 +872,7 @@ footer{
 }
 
 .item {
-	order: 1;
-	color:white;
+	background-color: rgba(250, 229, 211, 0.5);
 	width: 100%;
 }
 
