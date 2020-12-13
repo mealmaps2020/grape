@@ -37,7 +37,8 @@
 		    </nav>
 	    </div>
 
-	
+	<section class="hero" id="hero">
+      <div class="container">
 		
 		<br>
 		<br>
@@ -71,8 +72,6 @@
       
 
 
-<section class="hero" id="hero">
-      <div class="container">
 
     
 
