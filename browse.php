@@ -37,6 +37,11 @@
 		    </nav>
 	    </div>
 
+
+	
+
+		 </header>
+      
 	    <section class="hero" id="hero">
       <div class="container">
 	
@@ -67,11 +72,6 @@
 			</div> </div>
 			</h2>
 		</h1>
-
-	
-
-		 </header>
-      
 
 
 
