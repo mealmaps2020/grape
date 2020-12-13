@@ -53,7 +53,7 @@
       		<div class="single-animation">
       			<h5> making life simple during challanging times</h5>
       			<!---gavin--->
-      			<a href="loggedin.php" class="btn cta-btn"> Login/Register</a>
+      			<a href="register.php" class="btn cta-btn"> Login/Register</a>
             <!-- Button to open the modal login form -->
 
 
