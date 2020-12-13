@@ -183,7 +183,7 @@
                        <h4>Follow Along</h4>
                           <ul class="social-icons">
                           	<li>
-                          		<a href="#"><i class="fab fa-twitter"></i></a>
+                          		<a href="https://twitter.com/mealmaps_"><i class="fab fa-twitter"></i></a>
                           	 </li>
                           	 <li>
                           		<a href="https://www.instagram.com/meal_maps"><i class="fab fa-instagram"></i></a>
