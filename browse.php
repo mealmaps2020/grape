@@ -22,10 +22,10 @@
                 <a href="index.html" class="logo1"><img src="logo.png" alt=""> </a>
                 <ul class="nav-list">
                 	<li class="nav-item">
-                		<a href="index.php" class="nav-link">Home</a>
+                		<a href="index.php" class="nav-link active">Home</a>
                     </li>
                     <li class="nav-item">
-                		<a href="browse.php" class="nav-link active">Browse</a>
+                		<a href="browse.php" class="nav-link">Browse</a>
                     </li>
                     <li class="nav-item">
                 		<a href="nearme.php" class="nav-link">Near Me</a>
@@ -36,6 +36,8 @@
                 </ul>
 		    </nav>
 	    </div>
+	</header>
+	  <section class="hero" id="hero">
 		<div>
 			
 		<br>
@@ -65,7 +67,7 @@
 			</h2>
 		</h1>
 	
-  <section class="containerhero" id="list2">
+  <section class="container" id="list2">
        <div class="item">
         <img src="https://lh3.googleusercontent.com/proxy/YBlZhGF7Qcsu1Omx-o9a29RWnU3GrX9_Qa9__O3Qzqy9LUmNEnj_jSOqjVZcybodMiY6nHWV7vbik7TgUf3pdlURhQ8fv10hkEy-xOt65NJytx7XYA" height="50">
         <h2>Flannagans Bar and Restaurant</h2>
