@@ -850,7 +850,6 @@ footer{
 .list {
 	width: 100%;
 	height: 600px;
-	background-color: rgba(250, 229, 211, 0.5);
 	font-family: Garamond, serif;
 	display: flex;
 	flex-flow: row wrap;
