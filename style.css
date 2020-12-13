@@ -875,7 +875,8 @@ footer{
 
 
 .item img {
-	width: 80px;
-	height: 65px;
+	width: 200px;
+	height: 125px;
+	float: left;
 }
 
