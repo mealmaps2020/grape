@@ -65,9 +65,7 @@
 		</h1>
 	</header>
     <!---Header ends--->
-	<section class="hero" id="hero">
- 
-	      <section class="container" id="list">
+	<section class="container" id="list">
       <div class="item">
         <img src="https://lh3.googleusercontent.com/proxy/YBlZhGF7Qcsu1Omx-o9a29RWnU3GrX9_Qa9__O3Qzqy9LUmNEnj_jSOqjVZcybodMiY6nHWV7vbik7TgUf3pdlURhQ8fv10hkEy-xOt65NJytx7XYA" height="50">
         <h2>Flannagans Bar and Restaurant</h2>
@@ -205,9 +203,11 @@ While we are known predominately for our stone baked pizzas, we also have a pass
         <a href="#"><button>Order Now</button></a>
       </div>
     </section>
-		     <div class="container">
-      </div>
-  </section>
+
+    <!---Header ends--->
+
+</body>
+
 
   <footer>
 		<div class="container">
