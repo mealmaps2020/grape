@@ -25,7 +25,7 @@
                 		<a href="index.php" class="nav-link active">Home</a>
                     </li>
                     <li class="nav-item">
-                		<a href="newseacrh.php" class="nav-link">Browse</a>
+                		<a href="browse.php" class="nav-link">Browse</a>
                     </li>
                     <li class="nav-item">
                 		<a href="nearme.php" class="nav-link">Near Me</a>
