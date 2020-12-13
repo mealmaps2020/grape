@@ -71,7 +71,7 @@
 	
 
 		 </header>
-      </body>
+      
 
 
 
@@ -112,7 +112,7 @@ was spoiled by the presence of an ugly sea wall and muddy foreshore, a pattern t
       </div>
        <div class="item">
         <img src="https://www.therevolution.ie/uploads/3/8/7/2/38723999/rev-piz-edit-20_orig.jpg" height="50">
-        <h2>The Revolution</h2>
+        <h2>The Revolutionn</h2>
         <p>​The Revolution is a local neighbourhood restaurant serving up fresh, quality dishes since 2014.
 While we are known predominately for our stone baked pizzas, we also have a passion for california style tacos (gf). We also offer an array of smaller appetizer plates such as chargrilled tenderstem broccoli with chimichurri sauce, house made meatballs, and our loaded pulled pork fries to name a few!</p>
         <a href="#"><button>Book Now</button></a>
