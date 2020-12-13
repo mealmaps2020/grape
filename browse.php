@@ -68,6 +68,13 @@
 			</h2>
 		</h1>
 	
+
+			
+
+    <!---Header ends--->
+
+
+</header>
   <section class="containerlist">
        <div class="item">
         <img src="https://lh3.googleusercontent.com/proxy/YBlZhGF7Qcsu1Omx-o9a29RWnU3GrX9_Qa9__O3Qzqy9LUmNEnj_jSOqjVZcybodMiY6nHWV7vbik7TgUf3pdlURhQ8fv10hkEy-xOt65NJytx7XYA" height="50">
@@ -207,13 +214,6 @@ While we are known predominately for our stone baked pizzas, we also have a pass
       </div>
     </section>
 			
-
-    <!---Header ends--->
-
-
-</header>
-
-
   <footer>
     <div class="container">
        <div class="back-to-top">
