@@ -210,7 +210,7 @@ While we are known predominately for our stone baked pizzas, we also have a pass
 
     <!---Header ends--->
 
-</body>
+
 </header>
 
 
