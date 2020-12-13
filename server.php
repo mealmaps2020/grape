@@ -7,6 +7,11 @@ $email    = "";
 $errors = array(); 
 
 // connect to the database
+
+$servername = "eu-cdbr-west-03.cleardb.net";
+$username = "b76a9b80c89c75";
+$password = "f2135e73";
+$dbname = "heroku_dd492c5c8a9de0f";
 $db = mysqli_connect('localhost', 'root', '', 'registration');
 
 // REGISTER USER
