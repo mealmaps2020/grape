@@ -37,8 +37,6 @@
 		    </nav>
 	    </div>
 
-	    <section class="hero" id="hero">
-      <div class="container">
 	
 		
 		<br>
@@ -73,9 +71,10 @@
       
 
 
+<section class="hero" id="hero">
+      <div class="container">
 
-
-    <!---Header ends--->
+    
 
 		<section class="containerlist">
       <div class="item">
